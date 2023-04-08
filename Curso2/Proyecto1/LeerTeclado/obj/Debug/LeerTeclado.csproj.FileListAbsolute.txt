@@ -1,0 +1,5 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\LeerTeclado\LeerTeclado\bin\Debug\LeerTeclado.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\LeerTeclado\LeerTeclado\bin\Debug\LeerTeclado.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\LeerTeclado\LeerTeclado\bin\Debug\LeerTeclado.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\LeerTeclado\LeerTeclado\obj\Debug\LeerTeclado.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\LeerTeclado\LeerTeclado\obj\Debug\LeerTeclado.pdb

@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\bin\Debug\net6.0\Proyecto9.exe
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\bin\Debug\net6.0\Proyecto9.deps.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\bin\Debug\net6.0\Proyecto9.runtimeconfig.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\bin\Debug\net6.0\Proyecto9.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\bin\Debug\net6.0\Proyecto9.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\Proyecto9.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\Proyecto9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\Proyecto9.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\Proyecto9.AssemblyInfo.cs
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\Proyecto9.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\Proyecto9.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\refint\Proyecto9.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\Proyecto9.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\Proyecto9.genruntimeconfig.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto9\Proyecto9\obj\Debug\net6.0\ref\Proyecto9.dll

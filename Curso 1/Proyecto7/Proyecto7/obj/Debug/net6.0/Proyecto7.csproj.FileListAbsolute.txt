@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\bin\Debug\net6.0\Proyecto7.exe
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\bin\Debug\net6.0\Proyecto7.deps.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\bin\Debug\net6.0\Proyecto7.runtimeconfig.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\bin\Debug\net6.0\Proyecto7.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\bin\Debug\net6.0\Proyecto7.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\Proyecto7.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\Proyecto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\Proyecto7.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\Proyecto7.AssemblyInfo.cs
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\Proyecto7.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\Proyecto7.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\refint\Proyecto7.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\Proyecto7.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\Proyecto7.genruntimeconfig.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto7\Proyecto7\obj\Debug\net6.0\ref\Proyecto7.dll

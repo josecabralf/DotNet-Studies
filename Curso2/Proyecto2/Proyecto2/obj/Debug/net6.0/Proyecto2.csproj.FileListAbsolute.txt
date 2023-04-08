@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\bin\Debug\net6.0\Proyecto2.exe
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\bin\Debug\net6.0\Proyecto2.deps.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\bin\Debug\net6.0\Proyecto2.runtimeconfig.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\bin\Debug\net6.0\Proyecto2.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\bin\Debug\net6.0\Proyecto2.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.AssemblyInfo.cs
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\refint\Proyecto2.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.genruntimeconfig.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Curso2\Proyecto2\Proyecto2\obj\Debug\net6.0\ref\Proyecto2.dll

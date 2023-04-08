@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\bin\Debug\net6.0\Proyecto5.exe
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\bin\Debug\net6.0\Proyecto5.deps.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\bin\Debug\net6.0\Proyecto5.runtimeconfig.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\bin\Debug\net6.0\Proyecto5.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\bin\Debug\net6.0\Proyecto5.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\Proyecto5.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\Proyecto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\Proyecto5.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\Proyecto5.AssemblyInfo.cs
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\Proyecto5.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\Proyecto5.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\refint\Proyecto5.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\Proyecto5.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\Proyecto5.genruntimeconfig.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto5\Proyecto5\obj\Debug\net6.0\ref\Proyecto5.dll

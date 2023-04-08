@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\Proyecto6.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\Proyecto6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\Proyecto6.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\Proyecto6.AssemblyInfo.cs
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\Proyecto6.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\bin\Debug\net6.0\Proyecto6.exe
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\bin\Debug\net6.0\Proyecto6.deps.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\bin\Debug\net6.0\Proyecto6.runtimeconfig.json
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\bin\Debug\net6.0\Proyecto6.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\bin\Debug\net6.0\Proyecto6.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\Proyecto6.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\refint\Proyecto6.dll
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\Proyecto6.pdb
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\Proyecto6.genruntimeconfig.cache
+C:\Users\benja\Desktop\Nacho\Programación\C#\Proyecto6\Proyecto6\obj\Debug\net6.0\ref\Proyecto6.dll
